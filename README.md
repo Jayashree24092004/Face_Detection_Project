@@ -1,17 +1,17 @@
-# 👁️ Face Detection Web App using OpenCV & Streamlit
+#  Face Detection Web App using OpenCV & Streamlit
 
 A real-time **Face Detection Web Application** built using **OpenCV** and **Streamlit**.  
 This app captures live video from your webcam and detects human faces using the **Haar Cascade Classifier** technique — a fast and lightweight computer vision approach for object detection.
 
 
-## 🚀 Project Overview
+##  Project Overview
 
 This project demonstrates how to integrate **computer vision** with a **web interface** using Streamlit.  
 It uses your system webcam to capture frames, processes each frame with **OpenCV’s Haar Cascade Classifier**, and displays the detected faces in real-time within a web dashboard.
 
 ---
 
-## 🧠 Techniques Used
+##  Techniques Used
 
 ### 1. **OpenCV (Computer Vision)**
 - Used for real-time image capture, frame-by-frame analysis, and applying face detection algorithms.
@@ -34,7 +34,7 @@ It uses your system webcam to capture frames, processes each frame with **OpenCV
 
 ---
 
-## 🧩 Application Workflow
+##  Application Workflow
 
 1. **Start Streamlit Server**  
    When you run the app, Streamlit initializes a local web server.
