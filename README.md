@@ -54,6 +54,7 @@ It uses your system webcam to capture frames, processes each frame with **OpenCV
    You can stop/start detection anytime using app buttons or refresh the stream for a new session.
 
 ##OUTPUT##
+run using:streamlit run Streamlit_cam.py
 <img width="688" height="693" alt="image" src="https://github.com/user-attachments/assets/72b8af6a-ff9c-4036-8003-152b292b2a7b" />
 <img width="929" height="819" alt="image" src="https://github.com/user-attachments/assets/c467a187-c29f-4ea2-bfcd-806a70eddf6c" />
 <img width="580" height="219" alt="image" src="https://github.com/user-attachments/assets/10005c44-6c2d-470e-a184-86bdbd23d11b" />
